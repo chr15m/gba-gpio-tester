@@ -1,4 +1,4 @@
 .*.swp
-*.gba
+/*.gba
 *.elf
 build
